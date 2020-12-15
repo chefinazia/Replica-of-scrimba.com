@@ -1,6 +1,7 @@
 body {
     margin: 0;
 }
+
 .background-header-2 {
     position: relative;
     top: -80px;
@@ -8,4 +9,7 @@ body {
 }
 .logo {
     width: 120px;
+}
+.navigation-bar {
+    position: relative;
 }
