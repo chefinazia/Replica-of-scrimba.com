@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+.background-header-2 {
+    position: relative;
+    top: -80px;
+    left: 550px;
+}
+.logo {
+    width: 120px;
+}
